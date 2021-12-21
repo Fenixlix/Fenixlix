@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fenixlix
+- 👀 I’m interested in video games, and how to make them , also in learn many different types of programing languages
+- 🌱 I’m currently learning kotlin and refreshing a little of java.
+- 💞️ I’m looking to collaborate on lots of projects and become a top notch programmer.
